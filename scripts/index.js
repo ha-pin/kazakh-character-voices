@@ -32,8 +32,24 @@ const generator = () => {
     const voices = JSON.parse(fs.readFileSync(charactersSourcesPath, "utf8"))
 
     voices.forEach(({ hapin, cyrillic }) => {
+        const text = [
+            "b",
+            "d",
+            "f",
+            "g",
+            "j",
+            "k",
+            "l",
+            "m",
+            "n",
+            "p",
+        ].includes(hapin)
+            ? cyrillic + "ы"
+            : hapin === "ng"
+            ? "ы" + cyrillic
+            : cyrillic
         execSync(
-            `edge-tts --text ${cyrillic} --voice kk-KZ-DauletNeural --write-media ${path.join(
+            `edge-tts --text ${text} --voice kk-KZ-DauletNeural --write-media ${path.join(
                 charactersPath,
                 `${hapin}.mp3`
             )}`
