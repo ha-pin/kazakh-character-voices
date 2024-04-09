@@ -16,7 +16,7 @@ const write_readme = (voices) => {
                     ({ hapin, cyrillic, arabic }, idx) =>
                         `| ${
                             idx + 1
-                        } | ${hapin} | ${cyrillic} | ${arabic} | <audio controls src="/characters/${hapin}.mp3"></audio> |`
+                        } | ${hapin} | ${cyrillic} | ${arabic} | <audio controls src="/kazakh-voices/characters/${hapin}.mp3"></audio> |`
                 )
                 .join("\n")
     )
