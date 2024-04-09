@@ -1,0 +1,12 @@
+{
+  "name": "kazakh-character-voices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:ha-pin/kazakh-character-voices.git",
+  "author": "HerbertHe <Herbert.He0229@gmail.com>",
+  "license": "GPL-3.0",
+  "scripts": {
+    "gen": "node scripts/index.js"
+  }
+}

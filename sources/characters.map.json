@@ -1,0 +1,202 @@
+[
+  {
+    "arabic": "ا",
+    "cyrillic": "а",
+    "hapin": "a"
+  },
+  {
+    "arabic": "ب",
+    "cyrillic": "б",
+    "hapin": "b"
+  },
+  {
+    "arabic": "د",
+    "cyrillic": "д",
+    "hapin": "d"
+  },
+  {
+    "arabic": "ى",
+    "cyrillic": "ы",
+    "hapin": "e"
+  },
+  {
+    "arabic": "ف",
+    "cyrillic": "ф",
+    "hapin": "f"
+  },
+  {
+    "arabic": "گ",
+    "cyrillic": "г",
+    "hapin": "g"
+  },
+  {
+    "arabic": "ح",
+    "cyrillic": "х",
+    "hapin": "h"
+  },
+  {
+    "arabic": "ي",
+    "cyrillic": "й",
+    "hapin": "i"
+  },
+  {
+    "arabic": "ج",
+    "cyrillic": "ж",
+    "hapin": "j"
+  },
+  {
+    "arabic": "ك",
+    "cyrillic": "к",
+    "hapin": "k"
+  },
+  {
+    "arabic": "ل",
+    "cyrillic": "л",
+    "hapin": "l"
+  },
+  {
+    "arabic": "م",
+    "cyrillic": "м",
+    "hapin": "m"
+  },
+  {
+    "arabic": "ن",
+    "cyrillic": "н",
+    "hapin": "n"
+  },
+  {
+    "arabic": "و",
+    "cyrillic": "о",
+    "hapin": "o"
+  },
+  {
+    "arabic": "پ",
+    "cyrillic": "п",
+    "hapin": "p"
+  },
+  {
+    "arabic": "ق",
+    "cyrillic": "қ",
+    "hapin": "q"
+  },
+  {
+    "arabic": "ر",
+    "cyrillic": "р",
+    "hapin": "r"
+  },
+  {
+    "arabic": "س",
+    "cyrillic": "с",
+    "hapin": "s"
+  },
+  {
+    "arabic": "ت",
+    "cyrillic": "т",
+    "hapin": "t"
+  },
+  {
+    "arabic": "ۇ",
+    "cyrillic": "ұ",
+    "hapin": "u"
+  },
+  {
+    "arabic": "ۆ",
+    "cyrillic": "в",
+    "hapin": "v"
+  },
+  {
+    "arabic": "ۋ",
+    "cyrillic": "у",
+    "hapin": "w"
+  },
+  {
+    "arabic": "ز",
+    "cyrillic": "з",
+    "hapin": "z"
+  },
+  {
+    "arabic": "ە",
+    "cyrillic": "е",
+    "hapin": "ye"
+  },
+  {
+    "arabic": "ع",
+    "cyrillic": "ғ",
+    "hapin": "gh"
+  },
+  {
+    "arabic": "ھ",
+    "cyrillic": "һ",
+    "hapin": "hh"
+  },
+  {
+    "arabic": "ڭ",
+    "cyrillic": "ң",
+    "hapin": "ng"
+  },
+  {
+    "arabic": "ش",
+    "cyrillic": "ш",
+    "hapin": "sh"
+  },
+  {
+    "arabic": "چ",
+    "cyrillic": "ч",
+    "hapin": "ch"
+  },
+  {
+    "arabic": "ٴا ",
+    "cyrillic": "ә",
+    "hapin": "xa"
+  },
+  {
+    "arabic": "ٴى ",
+    "cyrillic": "і",
+    "hapin": "xe"
+  },
+  {
+    "arabic": "ٴو",
+    "cyrillic": "ө",
+    "hapin": "xo"
+  },
+  {
+    "arabic": "ٴۇ",
+    "cyrillic": "ү",
+    "hapin": "xu"
+  },
+  {
+    "arabic": "ٴۇ",
+    "cyrillic": "ү",
+    "hapin": "yu"
+  },
+  {
+    "arabic": "يو",
+    "cyrillic": "ё",
+    "hapin": "yo"
+  },
+  {
+    "arabic": "ي",
+    "cyrillic": "и",
+    "hapin": "yi"
+  },
+  {
+    "arabic": "تس",
+    "cyrillic": "ц",
+    "hapin": "c"
+  },
+  {
+    "arabic": "يۋ",
+    "cyrillic": "ю",
+    "hapin": "yw"
+  },
+  {
+    "arabic": "يا",
+    "cyrillic": "я",
+    "hapin": "ya"
+  },
+  {
+    "arabic": "",
+    "cyrillic": "э",
+    "hapin": "yy"
+  }
+]
